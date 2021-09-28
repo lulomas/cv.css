@@ -1,0 +1,16 @@
+
+h2{background-color: rgb(198, 226, 43);
+    text-align: center;}
+    p{color: rgb(233, 38, 71);
+    font-weight: bolder;
+    font-style: italic;}
+h3{background-color: rgb(198, 226, 43);
+        text-align: center; }
+        h4{background-color: rgb(43, 226, 125);
+            text-align: center;}
+            ul{color: violet;}
+            ol{color: turquoise;}
+            .destacado{
+                color: royalblue;
+                font-size: 20px;
+            }
